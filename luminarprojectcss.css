@@ -1,0 +1,168 @@
+.purpletab{
+   background-color: #5e068a;
+   width: 2000px;
+   height:auto;
+   color: white; 
+   margin: auto;
+   max-width: 100%;
+   position: relative;
+}
+.purpletab p{
+    margin-left: 150px;
+    padding-top: 10px;
+    font-size: 18px;  
+}
+.fa-solid fa-phone{
+    color: white;
+}
+.purspan{
+    margin-left: 700px;
+}
+a h5:hover{
+color: #7f2da8;
+}
+
+#caroimg1{
+   text-align: left; 
+   padding-bottom: 80px;  
+}
+#caroimg2{
+    text-align: left; 
+    padding-bottom: 20px; 
+
+ }
+ .navbar11{
+     height: 20px;
+ }
+
+.carousel-button{
+    background-color:#5e068a;
+    color:white;
+    width: 300px;
+    height: 85px;
+    border-radius: 100px;
+    font-size: 25px;
+    border: none;
+} 
+.carousel-button:hover{
+    background-color: #c785e7;
+}
+.lu1{
+color: #5e068a;
+margin-left: 100px;
+}
+.lu2{
+    color:rgb(158, 157, 157);
+    font-weight: 350;
+    margin-left: 100px;
+}
+.lu3{
+
+color: rgb(44, 43, 43);
+font-weight: 350;
+line-height: 35px;
+margin-left: 100px;
+}
+
+.girlimg{
+    margin-left: 200px;
+    width: 600px;
+    height: 700px;
+}
+.imgbut{
+    background-color:#5e068a;
+    color:white;
+    width: 200px;
+    height: 75px;
+    border-radius: 100px;
+    font-size: 20px;
+    border-color: #5e068a;
+} 
+.imgbut:hover{
+    color: #5e068a;
+    background-color: white;
+   border-color: #5e068a;
+   border-width: 3px;
+}
+.btn{
+    background-color: #5e068a;
+    color: white;
+    border: none;
+    margin-left: 200px;
+    font-size: 20px;
+}
+.btn:hover{
+    background-color: #c785e7;
+    color: white;
+    border: none;
+}
+/* day 2 */
+
+.courses{
+background-color:rgb(243 243 243);
+height: 2000px;
+
+
+}
+.imgds{
+    height: 372px;
+    width: 75px;
+    margin-left: 100px;
+    float: left;
+}
+.dsdetails{
+    width: 40%;
+   
+    margin-left: 627px;
+    margin-bottom: 400px;
+    float: left;
+    padding-top: 48px;
+    padding-left: 25px;
+    height: 370px;margin-right: 100px;
+}
+.maincourses{
+    background-color: white;
+    height: 480px;
+    width: 75%px;
+    margin-left: 100px;
+}
+.maincourses:hover{
+   
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   
+}
+.card-title{
+    color: #5e068a;
+    font-size: 23px;
+}
+.card-text{
+    font-weight: bold;
+    font-size: 18px;
+}
+.viewmore{
+    width :150px;
+    height: 50px;
+    background-color: #5e068a;
+    color: white;
+}
+.card:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   
+
+}
+.imgbutcourse{
+    background-color:rgb(243 243 243);;
+    color: #5e068a;
+    height: 75px;
+    border-radius: 100px;
+    font-size: 20px;
+    border-color: #5e068a;
+    border-width: 3px;
+    font-weight: bold;
+} 
+.imgbutcourse:hover{
+    color: white;
+    background-color: #5e068a;
+   border-color: #5e068a;
+   border: none;
+}
